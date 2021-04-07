@@ -1,0 +1,6 @@
+[submodule "shim2"]
+	path = shim2
+	url = https://github.com/openshim/shim2.git
+[submodule "shim"]
+	path = shim
+	url = https://github.com/openshim/shim.git
