@@ -31388,8 +31388,8 @@
       <AddressSpace name="AS_Clusters" id="AS_SHIMEDITOR2021041316520919204545211931742">
         <SubSpace name="SS_INTERNAL_MEM" id="SS_SHIMEDITOR2021041316522695106161070156188" start="0" end="4194303" endian="LITTLE">
           <MasterSlaveBindingSet>
-            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041318262670117353576558987">
-              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156368">
+            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021040717313641504874545323723">
+              <Accessor>
                 <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
                   <Performance accessTypeRef="#AT_SHIMEDITOR2021041316270784800283227941065">
                     <Pitch best="10.0" typical="10.0" worst="10.0"/>
@@ -31398,12 +31398,25 @@
                 </PerformanceSet>
               </Accessor>
             </MasterSlaveBinding>
+            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021040817313641504874545323723">
+              <Accessor/>
+            </MasterSlaveBinding>
+            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041317313641504874545323723">
+              <Accessor/>
+            </MasterSlaveBinding>
+            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041017313641504874545323723">
+              <Accessor/>
+            </MasterSlaveBinding>
+            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041117313641504874545323723">
+              <Accessor/>
+            </MasterSlaveBinding>
           </MasterSlaveBindingSet>
+          <MemoryConsistencyModel rawOrdering="ORDERED" warOrdering="ORDERED" wawOrdering="ORDERED" rarOrdering="ORDERED"/>
         </SubSpace>
         <SubSpace name="SS_SMEM_0" id="SS_SHIMEDITOR2021041317230553507542854397592" start="16777216" end="20971519" endian="LITTLE">
           <MasterSlaveBindingSet>
-            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041318262670117353576558987">
-              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156368">
+            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021040717313641504874545323723">
+              <Accessor>
                 <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
                   <Performance accessTypeRef="#AT_SHIMEDITOR2021041316270784800283227941065">
                     <Pitch best="10.0" typical="10.0" worst="10.0"/>
@@ -31416,8 +31429,8 @@
         </SubSpace>
         <SubSpace name="SS_SMEM_1" id="SS_SHIMEDITOR2021041317241973415513933821334" start="33554432" end="37748735" endian="LITTLE">
           <MasterSlaveBindingSet>
-            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041318262670117353576558987">
-              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156368">
+            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021040817313641504874545323723">
+              <Accessor>
                 <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
                   <Performance accessTypeRef="#AT_SHIMEDITOR2021041316270784800283227941065">
                     <Pitch best="10.0" typical="10.0" worst="10.0"/>
@@ -31430,8 +31443,8 @@
         </SubSpace>
         <SubSpace name="SS_SMEM_2" id="SS_SHIMEDITOR2021041317253966113133164360100" start="50331648" end="54525951" endian="LITTLE">
           <MasterSlaveBindingSet>
-            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041318262670117353576558987">
-              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156368">
+            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041317313641504874545323723">
+              <Accessor>
                 <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
                   <Performance accessTypeRef="#AT_SHIMEDITOR2021041316270784800283227941065">
                     <Pitch best="10.0" typical="10.0" worst="10.0"/>
@@ -31444,8 +31457,8 @@
         </SubSpace>
         <SubSpace name="SS_SMEM_3" id="SS_SHIMEDITOR2021041317261084405684940255260" start="67108864" end="71303167" endian="LITTLE">
           <MasterSlaveBindingSet>
-            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041318262670117353576558987">
-              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156368">
+            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041017313641504874545323723">
+              <Accessor>
                 <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
                   <Performance accessTypeRef="#AT_SHIMEDITOR2021041316270784800283227941065">
                     <Pitch best="10.0" typical="10.0" worst="10.0"/>
@@ -31458,8 +31471,8 @@
         </SubSpace>
         <SubSpace name="SS_SMEM_4" id="SS_SHIMEDITOR2021041317265115304608323505406" start="83886080" end="88080383" endian="LITTLE">
           <MasterSlaveBindingSet>
-            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041318262670117353576558987">
-              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156368">
+            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021041117313641504874545323723">
+              <Accessor>
                 <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
                   <Performance accessTypeRef="#AT_SHIMEDITOR2021041316270784800283227941065">
                     <Pitch best="10.0" typical="10.0" worst="10.0"/>
