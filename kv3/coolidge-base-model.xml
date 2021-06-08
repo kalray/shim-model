@@ -31389,11 +31389,17 @@
         <SubSpace name="SS_INTERNAL_MEM" id="SS_SHIMEDITOR2021041316522695106161070156188" start="0" end="4194303" endian="LITTLE">
           <MasterSlaveBindingSet>
             <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021040717313641504874545323723">
-              <Accessor>
-                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
-                  <Performance accessTypeRef="#AT_SHIMEDITOR2021041316270784800283227941065">
-                    <Pitch best="10.0" typical="10.0" worst="10.0"/>
-                    <Latency best="100.0" typical="100.0" worst="100.0"/>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040704423186801300498156369">
+                <PerformanceSet id="PS_SHIMEDITOR2021060811344050919288314147559">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021041304423186910250425858088">
+                    <Pitch best="3.0" typical="10.0" worst="23.0"/>
+                    <Latency best="3.0" typical="10.0" worst="23.0"/>
+                  </Performance>
+                </PerformanceSet>
+                <PerformanceSet id="PS_SHIMEDITOR2021060811353846820952269152809">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021041316361428815472948771034">
+                    <Pitch best="3.0" typical="10.0" worst="23.0"/>
+                    <Latency best="3.0" typical="10.0" worst="23.0"/>
                   </Performance>
                 </PerformanceSet>
               </Accessor>
