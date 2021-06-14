@@ -31875,6 +31875,36 @@
                 </PerformanceSet>
               </Accessor>
             </MasterSlaveBinding>
+            <MasterSlaveBinding slaveComponentRef="#SC_SHIMEDITOR2021040717313641504874545323723">
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156368">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021041304423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021041316361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021041316270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021041316270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021041316270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021041316270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+            </MasterSlaveBinding>
           </MasterSlaveBindingSet>
         </SubSpace>
         <SubSpace name="SS_SMEM_1" id="SS_SHIMEDITOR2021041317241973415513933821334" start="33554432" end="37748735" endian="LITTLE">
