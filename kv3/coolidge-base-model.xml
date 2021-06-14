@@ -31558,7 +31558,8 @@
   </SystemConfiguration>
   <PowerConfiguration>
     <PowerConsumptionSet name="PowerConsumptionSet_1" id="PCS_SHIMEDITOR2021040904442249305410857905517">
-      <PowerConsumption power="10" powerUnit="W"/>
+      <PowerConsumption operatingPointRef="#OP_CLUSTER0_F0" power="10" powerUnit="W"/>
+      <PowerConsumption operatingPointRef="#OP_CLUSTER0_F1" power="20" powerUnit="W"/>
     </PowerConsumptionSet>
   </PowerConfiguration>
   <FunctionalUnitSet>
