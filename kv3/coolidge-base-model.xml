@@ -31542,11 +31542,11 @@
       </InterruptCommunication>
     </CommunicationSet>
     <FrequencyVoltageSet>
-      <FrequencyDomain name="FrequencyDomain_Cluster_02" id="FD_SHIMEDITOR2021041316393340620738305554556"/>
-      <VoltageDomain name="VoltageDomain_Cluster_02" id="VD_SHIMEDITOR2021041316402375819978436649752"/>
+      <FrequencyDomain name="FrequencyDomain_Clusters" id="FD_SHIMEDITOR2021041316393340620738305554556"/>
+      <VoltageDomain name="VoltageDomain_Clusters" id="VD_SHIMEDITOR2021041316402375819978436649752"/>
       <OperatingPointSet name="OperatingPointSet0" id="OPS_CLUSTER0">
-        <OperatingPoint name="operatingpoint0" id="OP_CLUSTER0_F0" frequencyUnit="MHz" voltageUnit="mV"/>
-        <OperatingPoint name="operatingpoint1" id="OP_CLUSTER0_F1" frequency="1200" frequencyUnit="MHz" voltageUnit="mV"/>
+        <OperatingPoint name="Normal" id="OP_CLUSTER0_F0" frequency="800" frequencyUnit="MHz" voltage="800" voltageUnit="mV"/>
+        <OperatingPoint name="Turbo" id="OP_CLUSTER0_F1" frequency="1000" frequencyUnit="MHz" voltage="880" voltageUnit="mV"/>
       </OperatingPointSet>
     </FrequencyVoltageSet>
     <ContentionGroupSet>
