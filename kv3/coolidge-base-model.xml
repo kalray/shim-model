@@ -31904,6 +31904,454 @@
                   </Performance>
                 </PerformanceSet>
               </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156369">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043104423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043116361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043116270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043116270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043116270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043116270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156370">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043204423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043216361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043216270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043216270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043216270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043216270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156372">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043304423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043316361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043316270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043316270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043316270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043316270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156373">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043404423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043416361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043416270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043416270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043416270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043416270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156374">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043504423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043516361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043516270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043516270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043516270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043516270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156375">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043604423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043616361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043616270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043616270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043616270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043616270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156376">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043704423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043716361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043716270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043716270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043716270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043716270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156377">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043804423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043816361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043816270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043816270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043816270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043816270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156378">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043904423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043916361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043916270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043916270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043916270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021043916270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156379">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044004423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044016361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044016270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044016270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044016270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044016270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156380">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044104423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044116361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044116270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044116270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044116270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044116270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156381">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044204423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044216361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044216270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044216270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044216270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044216270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156382">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044304423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044316361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044316270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044316270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044316270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044316270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156383">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044404423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044416361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044416270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044416270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044416270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044416270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156384">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044504423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044516361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044516270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044516270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044516270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044516270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
+              <Accessor masterComponentRef="#MC_SHIMEDITOR2021040804423186801300498156385">
+                <PerformanceSet id="PS_SHIMEDITOR2021041318275011720934880082454">
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044604423186910250425858088">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044616361428815472948771034">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044616270784800283227941065">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044616270784800283227941066">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044616270784800283227941067">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                  <Performance accessTypeRef="#AT_SHIMEDITOR2021044616270784800283227941068">
+                    <Pitch best="46.0" typical="69.0" worst="391.0"/>
+                    <Latency best="46.0" typical="69.0" worst="391.0"/>
+                  </Performance>
+                </PerformanceSet>
+              </Accessor>
             </MasterSlaveBinding>
           </MasterSlaveBindingSet>
         </SubSpace>
