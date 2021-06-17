@@ -45764,36 +45764,59 @@
       </AddressSpace>
     </AddressSpaceSet>
     <CommunicationSet>
+      <SharedMemoryCommunication name="SHMEM_C00" operationType="OTHER" dataSize="4" dataSizeUnit="MiB" addressSpaceRef="#AS_SHIMEDITOR2021041316520919204545211931742" subSpaceRef="#SS_SHIMEDITOR2021041317230553507542854397592">
+        <ConnectionSet>
+          <Connection from="#MC_SHIMEDITOR2021040704423186801300498156368" to="#MC_SHIMEDITOR2021040704423186801300498156369"/>
+        </ConnectionSet>
+      </SharedMemoryCommunication>
       <SharedMemoryCommunication name="SHMEM_C01" operationType="OTHER" dataSize="4" dataSizeUnit="MiB" addressSpaceRef="#AS_SHIMEDITOR2021041316520919204545211931742" subSpaceRef="#SS_SHIMEDITOR2021041317241973415513933821334">
-        <ConnectionSet/>
+        <ConnectionSet>
+          <Connection from="#MC_SHIMEDITOR2021040804423186801300498156368" to="#MC_SHIMEDITOR2021040804423186801300498156369"/>
+        </ConnectionSet>
       </SharedMemoryCommunication>
       <SharedMemoryCommunication name="SHMEM_C02" operationType="OTHER" dataSize="4" dataSizeUnit="MiB" addressSpaceRef="#AS_SHIMEDITOR2021041316520919204545211931742" subSpaceRef="#SS_SHIMEDITOR2021041317253966113133164360100">
-        <ConnectionSet/>
+        <ConnectionSet>
+          <Connection from="#MC_SHIMEDITOR2021040904423186801300498156368" to="#MC_SHIMEDITOR2021040904423186801300498156369"/>
+        </ConnectionSet>
+      </SharedMemoryCommunication>
+      <SharedMemoryCommunication name="SHMEM_C03" operationType="OTHER" dataSize="4" dataSizeUnit="MiB" addressSpaceRef="#AS_SHIMEDITOR2021041316520919204545211931742" subSpaceRef="#SS_SHIMEDITOR2021041317261084405684940255260">
+        <ConnectionSet>
+          <Connection from="#MC_SHIMEDITOR2021041004423186801300498156368" to="#MC_SHIMEDITOR2021041004423186801300498156369"/>
+        </ConnectionSet>
+      </SharedMemoryCommunication>
+      <SharedMemoryCommunication name="SHMEM_C04" operationType="OTHER" dataSize="4" dataSizeUnit="MiB" addressSpaceRef="#AS_SHIMEDITOR2021041316520919204545211931742" subSpaceRef="#SS_SHIMEDITOR2021041317265115304608323505406">
+        <ConnectionSet>
+          <Connection from="#MC_SHIMEDITOR2021041104423186801300498156368" to="#MC_SHIMEDITOR2021041104423186801300498156369"/>
+        </ConnectionSet>
       </SharedMemoryCommunication>
       <EventCommunication name="Event_APIC_Mailboxes">
         <ConnectionSet>
-          <Connection from="#MC_SHIMEDITOR2021040904423186801300498156368" to="#MC_SHIMEDITOR2021041004423186801300498156372">
-            <Performance>
-              <Pitch best="10.0" typical="10.0" worst="10.0"/>
-              <Latency best="10.0" typical="10.0" worst="10.0"/>
-            </Performance>
-          </Connection>
+          <Connection from="#MC_SHIMEDITOR2021040904423186801300498156368" to="#MC_SHIMEDITOR2021041004423186801300498156372"/>
         </ConnectionSet>
       </EventCommunication>
+      <InterruptCommunication name="Interrupt_IPI_C00">
+        <ConnectionSet>
+          <Connection from="#MC_SHIMEDITOR2021040904423186801300498156368" to="#MC_SHIMEDITOR2021040904423186801300498156369"/>
+        </ConnectionSet>
+      </InterruptCommunication>
+      <InterruptCommunication name="Interrupt_IPI_C01">
+        <ConnectionSet>
+          <Connection from="#MC_SHIMEDITOR2021040804423186801300498156368" to="#MC_SHIMEDITOR2021040804423186801300498156369"/>
+        </ConnectionSet>
+      </InterruptCommunication>
       <InterruptCommunication name="Interrupt_IPI_C02">
         <ConnectionSet>
-          <Connection from="#MC_SHIMEDITOR2021040904423186801300498156368" to="#MC_SHIMEDITOR2021040904423186801300498156369">
-            <Performance>
-              <Pitch best="10.0" typical="10.0" worst="10.0"/>
-              <Latency best="10.0" typical="10.0" worst="10.0"/>
-            </Performance>
-          </Connection>
-          <Connection from="#MC_SHIMEDITOR2021040904423186801300498156368" to="#MC_SHIMEDITOR2021040904423186801300498156370">
-            <Performance>
-              <Pitch best="10.0" typical="10.0" worst="10.0"/>
-              <Latency best="10.0" typical="10.0" worst="10.0"/>
-            </Performance>
-          </Connection>
+          <Connection from="#MC_SHIMEDITOR2021040904423186801300498156368" to="#MC_SHIMEDITOR2021040904423186801300498156369"/>
+        </ConnectionSet>
+      </InterruptCommunication>
+      <InterruptCommunication name="Interrupt_IPI_C03">
+        <ConnectionSet>
+          <Connection from="#MC_SHIMEDITOR2021041004423186801300498156368" to="#MC_SHIMEDITOR2021041004423186801300498156369"/>
+        </ConnectionSet>
+      </InterruptCommunication>
+      <InterruptCommunication name="Interrupt_IPI_C04">
+        <ConnectionSet>
+          <Connection from="#MC_SHIMEDITOR2021041104423186801300498156368" to="#MC_SHIMEDITOR2021041104423186801300498156369"/>
         </ConnectionSet>
       </InterruptCommunication>
     </CommunicationSet>
@@ -45806,9 +45829,11 @@
       </OperatingPointSet>
     </FrequencyVoltageSet>
     <ContentionGroupSet>
-      <ContentionGroup name="ContentionGroup_1" id="CG_SHIMEDITOR2021040904515102017985050111752">
-        <Throughput unit="B/cycle"/>
-        <DataRate/>
+      <ContentionGroup name="ContentionGroup_SMEM00" id="CG_SHIMEDITOR2021040904515102017985050111752">
+        <Throughput frequencyDomainRef="#FD_SHIMEDITOR2021041316393340620738305554556" value="32" unit="B/cycle"/>
+        <DataRate value="32" unit="GiB/s"/>
+        <PerformanceSetRef>PS_SHIMEDITOR2021041318275011720934880082454</PerformanceSetRef>
+        <PerformanceSetRef>PS_SHIMEDITOR2021041318275011720934880082454</PerformanceSetRef>
       </ContentionGroup>
     </ContentionGroupSet>
   </SystemConfiguration>
